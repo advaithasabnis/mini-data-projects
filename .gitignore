@@ -71,4 +71,10 @@ env.bak/
 venv.bak/
 pip-selfcheck.json
 
+# Custom
+/goldForecast
+/constructionMaterials
+/doctorsAppointments
+/apples2audiences
+
 # End of file
